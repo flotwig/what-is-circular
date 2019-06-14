@@ -43,3 +43,5 @@ MIT
 # Thanks
 
 Thanks to @tjmehta's [`is-circular`](https://github.com/tjmehta/is-circular/) for providing the tests and README for this project.
+
+Thanks to @angus-c's [`just-is-circular`](https://github.com/angus-c/just/) for contributing additional tests.
