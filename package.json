@@ -1,6 +1,6 @@
 {
   "name": "what-is-circular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like is-circular, but returns the path to the first circular reference found.",
   "main": "index.js",
   "repository": "git@github.com:flotwig/what-is-circular.git",

@@ -19,7 +19,7 @@ function _dfs (obj, parents = [], parentKeys = []) {
         return parentKeys
       }
 
-      const path = _dfs(val, parents.concat(val), parentKeys.concat(key))
+      const path = _dfs(val, parents.concat([val]), parentKeys.concat([key]))
 
       if (path) return path
     }
